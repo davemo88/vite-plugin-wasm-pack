@@ -1,5 +1,4 @@
 node_modules
-dist
 esm
 yarn.lock
 example/my-crate/target
